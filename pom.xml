@@ -72,11 +72,6 @@
     	<version>5.1.2</version>
     </dependency>
 
-    <dependency>
-    	<groupId>VivekAcademy</groupId>
-    	<artifactId>ExtentReport</artifactId>
-    	<version>0.0.1-SNAPSHOT</version>
-    </dependency>
   </dependencies>
 
   <repositories>
