@@ -67,9 +67,9 @@
 
     <!-- Extent Reports -->
     <dependency>
-      <groupId>com.aventstack</groupId>
-      <artifactId>extentreports</artifactId>
-      <version>5.0.9</version>
+   	 <groupId>com.aventstack</groupId>
+   	 <artifactId>extentreports</artifactId>
+    	<version>5.1.2</version>
     </dependency>
 
     <dependency>
